@@ -1,0 +1,10 @@
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\bin\Debug\NSPÖDEV.exe.config
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\bin\Debug\NSPÖDEV.exe
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\bin\Debug\NSPÖDEV.pdb
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.Form1.resources
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.Properties.Resources.resources
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.csproj.GenerateResource.cache
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.exe
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.pdb
+C:\Users\Batuhan\source\repos\NSPÖDEV\NSPÖDEV\obj\Debug\NSPÖDEV.Form2.resources
